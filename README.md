@@ -33,7 +33,7 @@ modules, a reusable VPC module, and remote state on S3 with DynamoDB locking.
 
 [aws-serverless-review-workflow](https://github.com/KaoriKunimasu/aws-serverless-review-workflow)
 Serverless AWS workflow platform for document/terminology review, built with
-Terraform, Cognito, API Gateway, Lambda, DynamoDB, and CloudFront.
+Terraform, Cognito, API Gateway, Lambda, and DynamoDB.
 
 **Skills**
 
