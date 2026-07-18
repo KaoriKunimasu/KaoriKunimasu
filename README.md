@@ -17,14 +17,14 @@ teams across cloud, semiconductor, and distributed-systems domains.
 
 [serverless-saas-platform](https://github.com/KaoriKunimasu/serverless-saas-platform)
 Multi-service AWS platform: a serverless API (Lambda, API Gateway, DynamoDB, CDK)
-alongside a containerized ECS Fargate service backed by Amazon RDS for PostgreSQL
+alongside a containerised ECS Fargate service backed by Amazon RDS for PostgreSQL
 (Terraform). GitHub Actions OIDC CI/CD, rolling deployments with autoscaling,
 CloudWatch observability, and support-focused docs — API troubleshooting playbooks,
 customer issue-intake templates, rollback runbooks, and incident-response exercises.
 
 [aws-review-workflow-eks](https://github.com/KaoriKunimasu/aws-review-workflow-eks)
 Serverless-to-Kubernetes migration on Amazon EKS — a Lambda/API Gateway review API
-re-implemented as a containerized FastAPI (Python) service, with IRSA, Kustomize,
+re-implemented as a containerised FastAPI (Python) service, with IRSA, Kustomize,
 and rollout/rollback runbooks.
 
 [aws-infrastructure-core](https://github.com/KaoriKunimasu/aws-infrastructure-core)
